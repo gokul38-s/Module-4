@@ -12,15 +12,16 @@ To write a Python program that counts the number of lines in a text file `story.
 
 ## 🧾 Program
 ```
-def returnSum(myDict):
-    final=0
-    for i in myDict.values():
-        final+=i
-    return final
-#driver functions
+count = 0
 
-myDict = {'a': 100, 'b': 200, 'c': 300}
-print("Sum :",returnSum(myDict))
+try:
+    with open('story.txt', 'r') as file:
+        for line in file:
+            if not line.strip().startswith('T'):
+                count += 1
+    print(count)
+except FileNotFoundError:
+    print("The file 'story.txt' was not found.")
 ```
 
 ## Output
