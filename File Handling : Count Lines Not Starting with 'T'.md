@@ -25,7 +25,8 @@ except FileNotFoundError:
 ```
 
 ## Output
-![Screenshot (148)](https://github.com/user-attachments/assets/584ecff1-9dfb-4670-b1c8-ee354a85ed3d)
+<img width="682" height="173" alt="image" src="https://github.com/user-attachments/assets/ce807ccf-933e-4962-ac63-9a912474f760" />
+
 
 ## Result
 Thus,the program has been executed successfully.
