@@ -105,7 +105,7 @@ print(sorted_items)
 
 Sample Output:
 
-![Screenshot (145)](https://github.com/user-attachments/assets/e8333efb-3f5c-488e-bca7-cb30b9252da2)
+![image](https://github.com/user-attachments/assets/a550855e-67ac-49f1-b4ae-9416d11fd693)
 
 Result:
 
