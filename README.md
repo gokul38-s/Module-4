@@ -27,7 +27,7 @@ obj.mech(r)
 ```
 
 Output:
-<img width="825" height="225" alt="image" src="https://github.com/user-attachments/assets/507144d6-f2a5-4b23-a386-0bd511fc51da" />
+![Screenshot 2025-04-28 225525](https://github.com/user-attachments/assets/732d2ade-138c-4452-af08-c761fa1b92fd)
 
 
 Result:
