@@ -61,7 +61,7 @@ print(dict3)
 
 Output:
 
-<img width="1437" height="211" alt="image" src="https://github.com/user-attachments/assets/561e6dbb-138b-4ca3-b4f5-337d1b14c796" />
+![Screenshot (145)](https://github.com/user-attachments/assets/e8333efb-3f5c-488e-bca7-cb30b9252da2)
 
 Result:
 
