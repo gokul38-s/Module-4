@@ -148,7 +148,7 @@ except IndexError:
 
 Output:
 
-<img width="712" height="377" alt="image" src="https://github.com/user-attachments/assets/d96e6192-b83f-4ee9-a5a3-9a9e4521401b" />
+![Screenshot 2025-04-28 230606](https://github.com/user-attachments/assets/caa1949e-6a6a-4c0e-b152-491520238b0c)
 
 Result:
 
