@@ -50,12 +50,13 @@ Call the merge() function and print the merged dictionary.
 🧾 Program
 
 ```
-dict1 = {'a': 1, 'b': 2, 'c': 3}
-dict2 = {'b': 99, 'd': 4}
-def merge(d1, d2):
-    return {**d1, **d2}
-merged_dict = merge(dict1, dict2)
-print(merged_dict)
+dict1={'Ten': 10,'Twenty': 20,'Thirty': 30} 
+dict2={'Thirty': 30,'Fourty': 40,'Fifty': 50} def 
+merge (dict1,dict2): 
+res={**dict1 , **dict2} return 
+res 
+dict3=merge(dict1,dict2) 
+print(dict3)
 ```
 
 Output:
