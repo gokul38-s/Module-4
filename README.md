@@ -132,16 +132,18 @@ Print the result based on whether the index access succeeds or fails.
 
 ```
 try:
-    n=int(input())
-    a=[]
-    for i in range(n):
-        num=int(input())
-        a.append(num)
-    index=int(input())    
-    print(a)
-    print(a[index])
+    # Taking 3 elements input from the user
+    L = []
+    for i in range(3):
+        item = ['laptop','mobile','pen']
+        L.append(item)
+
+    # Trying to access index 4
+    print(L[4])
+
 except IndexError:
-    print(f"{index} is not accepted")
+    print("check index range")
+
 ```
 
 Output:
